@@ -1,1 +1,5 @@
 # Brandon's Notes
+
+## Summary
+
+This repository contains all of the notes taken by [Brandon](https://github.com/niubrandon) for [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
